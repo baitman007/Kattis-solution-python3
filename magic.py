@@ -1,4 +1,4 @@
-l = list(input().split())
+l = list(input())
 if len(l) == len(set(l)):
     print("1")
 else:
