@@ -17,7 +17,7 @@ def s():
 
         q = q * 2 - i
 
-        if (q <= 0):
+        if q <= 0:
             print(res)
             return
 
